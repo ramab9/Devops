@@ -2,3 +2,11 @@ My new first test file
 file 1234
  HI Arun
 How are you ?  I am good
+
+
+Pls find the below 
+
+git status
+git add Test
+git commit -m "Updated greeting message"
+git push origin main
